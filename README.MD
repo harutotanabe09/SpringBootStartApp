@@ -31,6 +31,7 @@ gradle build
 java -jar XXX.jar
 
 ### :book: Reference
+
 https://github.com/aocattleya/MiniBookSearch
 
 https://github.com/matiassingers/awesome-readme
@@ -38,3 +39,7 @@ https://github.com/matiassingers/awesome-readme
 https://gist.github.com/rxaviers/7360908
 
 https://slack.dev/java-slack-sdk/guides/incoming-webhooks
+
+### :x:  How to Construction
+
+###### .gitignore  
