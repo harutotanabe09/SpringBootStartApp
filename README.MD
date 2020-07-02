@@ -1,16 +1,16 @@
-:green_book:Application Name
+:green_book: Application Name
 
 Java Sample Application
 
-### :blue_book:Description
+### :blue_book: Description
 
-- :bell:Java   : Program languege
-- :pencil: ​Gradle : build tool 
+- :bell: Java   : Program languege
+- :pencil:  ​Gradle : build tool 
 - :leaves: ​Spring Framework : frame work
 - :new_moon: Doma  : ormapper
-- :grey_exclamation:Flyway : migration tool
+- :grey_exclamation: Flyway : migration tool
 
-### :orange_book:Usage Overview
+### :orange_book: Usage Overview
 
 1. Command Run
 
